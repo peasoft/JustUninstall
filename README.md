@@ -8,7 +8,7 @@
 
 运行 `main.bat` 开始卸载。
 
-预览视频：TBA
+预览视频：[BV1woiweFECb](https://www.bilibili.com/video/BV1woiweFECb/)
 
 ## 开发
 
